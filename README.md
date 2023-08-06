@@ -18,7 +18,7 @@ This is a Python 3.x program. Make sure Python 3.x is installed on your system.
 
 1. Clone the repo
 ```
-git clone https://github.com/cipobt/count_string/tree/main
+git clone https://github.com/cipobt/count_string/
 ```
 2. Navigate to the directory
 ```
@@ -49,8 +49,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your@email.com
+Your Name - aryavachin@gmail.com
 
-Project Link: https://github.com/yourusername/character-frequency-counter
+Project Link: https://github.com/cipobt/count_string/
 
 Feel free to reach out if you have any questions or if there's any issues running the program!
